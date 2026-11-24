@@ -1,5 +1,12 @@
-## Hi there 👋
+19 yrs old, from 🇪🇸  
+languages:  
+🇺🇸 B2  
+🇯🇵 N5  
+🇨🇳 HSK-5  
 
+Hobbys:  
+gym 70kg - 70/100/80  
+chess - 1557 elo FIDE (standard)
 <!--
 **mariodev278/mariodev278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
